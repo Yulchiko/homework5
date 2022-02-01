@@ -1,0 +1,11 @@
+.Form{
+    margin-top: 50px;
+       display: flex;
+}
+.Form > button{
+    border-radius: 15px;
+    border: 1px solid black;
+    width: 150px;
+    height: 25px;
+    margin-top: 50px;
+}

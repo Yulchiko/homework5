@@ -1,0 +1,14 @@
+.Menu {
+    background: aqua;
+        margin-left: 40px;
+    font-size: 40px;
+flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.ul{
+    justify-content: space-around;
+
+    margin-left: 40px;
+
+}
